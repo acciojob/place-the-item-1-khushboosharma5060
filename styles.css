@@ -9,11 +9,23 @@
 .item{
 	height:100px;
 	width:100px;
-	background-color:red;
-	border:2px solid black;
-	
+	background-color:green;
 }
-
+.item-five{
+	height:100px;
+	width:100px;
+	background-color:green;
+}
+.item-six{
+	height:100px;
+	width:100px;
+	background-color:red;
+}
+.item-seven{
+	height:100px;
+	width:100px;
+	background-color:blue;
+}
 
 
 
