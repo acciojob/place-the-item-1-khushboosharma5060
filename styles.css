@@ -2,29 +2,34 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
-	gap:10px;
+	justify-content: space-between;
 	flex-wrap:wrap;
 }
 
 .item{
-	height:100px;
-	width:100px;
+	height:90px;
+	width:90px;
+	font-size: 40px;
 	background-color:green;
 }
-.item-five{
-	height:100px;
-	width:100px;
+.item-three{
+	height:90px;
+	width:90px;
+	font-size: 40px;
 	background-color:green;
 }
-.item-six{
-	height:100px;
-	width:100px;
+.item-one{
+	height:90px;
+	width:90px;
 	background-color:red;
+	font-size: 40px;
 }
-.item-seven{
-	height:100px;
-	width:100px;
+.item-two{
+	height:90px;
+	width:90px;
 	background-color:blue;
+	font-size: 40px;
+
 }
 
 
